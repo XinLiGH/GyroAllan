@@ -8,7 +8,7 @@
 
 ![](https://github.com/XinLiGitHub/GyroAllan/raw/master/Software/untitled.bmp) <br>
 
-量化噪声     X轴：0.458971 Y轴：0.564662 Z轴：1.118367  单位：deg/h <br>
+量化噪声     X轴：0.458971 Y轴：0.564662 Z轴：1.118367  单位：urad <br>
 角度随机游走  X轴：0.231291 Y轴：0.273737 Z轴：0.532305  单位：deg/h^0.5 <br>
 零偏不稳定性  X轴：8.264598 Y轴：8.849770 Z轴：7.367757  单位：deg/h <br>
 角速率游走   X轴：42.156012 Y轴：40.870664 Z轴：32.268721  单位：deg/h/h^0.5 <br>
